@@ -134,12 +134,18 @@ git push origin --force --all
 git push origin --force --tags
 ```
 
-**Prune and remove garbage**
+**Prune and remove garbage from index**
 ```
 git for-each-ref --format='delete %(refname)' refs/original | git update-ref --stdin
 git reflog expire --expire=now --all
 git gc --prune=now
 ```
 
+## Cheat sheets
+https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf
+https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+
 ## See also
+http://gitref.org/basic/
 http://ibrokegit.com/
+
