@@ -8,6 +8,7 @@ git status
 git stash
 ```
 ## Undoing stuff
+- Discard all local changes
 ```
 git reset --hard HEAD
 ```
@@ -49,7 +50,7 @@ git reset <file>
 --soft: Just move HEAD, keep changes
 --mixed: As above but also unstage changes
 --hard: As above but also modify local working directory
-- Discard all local changes
+~~~~
 
 ## How do I force 'git pull' to overwrite local files?
 ```
@@ -112,6 +113,16 @@ git add .
 git commit -m 'Undone merge'
 git pull
 git push
+```
+
+## Get changes from upstream in forked repository
+```
+git pull upstream
+```
+
+## Pull and merge with minimal conflicts
+```
+git pull --rebase
 ```
 
 ## Rewrite the history of a branch if all else fails (WARNING: Handle with extreme care!)
