@@ -142,10 +142,9 @@ git gc --prune=now
 ```
 
 ## Cheat sheets
-https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf
-https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+- https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf
+- https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
 ## See also
-http://gitref.org/basic/
-http://ibrokegit.com/
-
+- http://gitref.org/basic/
+- http://ibrokegit.com/
