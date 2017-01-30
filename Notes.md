@@ -7,6 +7,12 @@ git status
 ```
 git stash
 ```
+
+## Tracking a new branch ('There is no tracking information for the current branch.')
+```
+git branch --set-upstream-to=origin/<remote> <local>
+```
+
 ## Undoing stuff
 - Discard all local changes
 ```
