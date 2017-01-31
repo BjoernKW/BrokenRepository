@@ -53,7 +53,6 @@ git reset HEAD~
 git add .
 git commit -c ORIG_HEAD
 ```
-
 - Undo 'git add'
 ```
 git reset <file>
