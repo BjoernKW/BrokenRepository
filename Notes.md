@@ -95,7 +95,7 @@ or alternatively:
 
 ```
 git reset <file>
-echo filename >> .gitingore
+echo filename >> .gitignore
 ```
 
 ## Cleaning up local commits interactively before pushing
