@@ -161,5 +161,6 @@ git gc --prune=now
 ## See also
 - http://gitref.org/basic/
 - http://ibrokegit.com/
+- merging and rebasing: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 - ORIG_HEAD: http://stackoverflow.com/questions/17595524/orig-head-fetch-head-merge-head-etc
 - carets and tildes: http://www.paulboxley.com/blog/2011/06/git-caret-and-tilde
