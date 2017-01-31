@@ -3,10 +3,13 @@
 ## If you're on Windows use Git BASH
 https://git-for-windows.github.io/
 
+
 ## Show status
 ```
 git status
 ```
+
+
 ## Stash changes
 ```
 git stash
