@@ -155,7 +155,7 @@ git gc --prune=now
 ```
 
 ## Cheat sheets
-- https://www.atlassian.com/dms/wac/images/landing/git/atlassian_git_cheatsheet.pdf
+- https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 - https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 
 ## See also
